@@ -34,11 +34,15 @@ body
 {
     font-size: 20px;
 }
+#post
+{
+    padding:1em;
+}
 #footer
 {
-	backgroud:#777;
-	color:white;
-	text-align: center;
-	padding: 0.5em;
+    backgroud:#777;
+    color: white;
+    text-align: center;
+    padding: 0.5em;
 }
 
