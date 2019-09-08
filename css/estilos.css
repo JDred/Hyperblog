@@ -8,7 +8,6 @@ body
     padding: 0; 
 }
 #cabecera
-{
     background: #33A;
     box-shadow: 0px 2px 20px 0px rbga(0,0,0,0,5);
     color: white;
@@ -22,7 +21,7 @@ body
     font-weight: normal;
     font-size: 0.8em;
     
-}
+
 #container
 {
     width: 70%;
@@ -35,3 +34,11 @@ body
 {
     font-size: 20px;
 }
+#footer
+{
+	backgroud:#777;
+	color:white;
+	text-align: center;
+	padding: 0.5em;
+}
+
