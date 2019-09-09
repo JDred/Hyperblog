@@ -4,4 +4,8 @@ Nacio en 1999, en Madrid.
 
 Le ha costado un cojon añadir esta linea en el archivo desde otra cuenta, pero parece que ya lo ha conseguido.
 
+Esta linea la añado como colaborador despues de haber hecho fork al proyecto y de que aprobase el pull request y se pudiese hacer merge.
+
 Hoy hablaremos de su vida laboral.
+Para empezar decir que estas lineas las escribo a 09/09/2019 día en el que falto en el curro por estar malo.(Pero bueno no me arrepiento ni una pizca el curro es una basura mal pagada que no me estimula intelectualmente)
+
