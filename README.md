@@ -6,3 +6,4 @@ Basicamente cree un blog que te habla de como estudiar y te referencio a la figu
 
 Acabando el curso de git y GitHub te puedo asegurar que es util. 
 
+Pues bueno poquito más decirte que veas el blog no esa demasiado currado pero simplemente ha sido un proyecto con el que ir aprendiento como manejar Git y Github. (Igual que estas últimas lineas)
